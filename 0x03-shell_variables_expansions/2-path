@@ -1,2 +1,2 @@
 #!/bin/bash
-echo mv "/action PATH. /action"
+echo PATH=$PATH:/action
